@@ -1,1 +1,3 @@
-# weights-reset
+# Weights Reset
+
+Weights Reset is a simple yet effective regularization technique that prevents overfitting and helps avoid vanishing and exploding gradients in deep neural networks. This GitHub repository contains the implementation of the Weights Reset method in Python, along with an example usage on the Caltech-101 and CIFAR-100 datasets. The code is built using the Keras deep learning framework and includes a simple sequential model architecture. The repository also includes a Jupyter notebooks that demonstrates the effectiveness of the Weights Reset method on the datasets compared to other popular regularization techniques. 
